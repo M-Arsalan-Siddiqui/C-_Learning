@@ -1,0 +1,10 @@
+#include <iostream>
+using namespace std;
+int main () {
+	int a= 9;
+if (a%2==0) {
+  cout << "A is Even Number";
+} else {
+  cout << "A is ODD Number";
+}
+return 0;
