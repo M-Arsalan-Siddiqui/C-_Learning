@@ -1,0 +1,12 @@
+#include <iostream>
+using namespace std;
+int main () {
+	cout<<"hellowworld!"; //print 
+	int a=100; //decleare integer variable
+	char b[]="Arsalan"; //declare string variable
+	float c=20.55; //declare string variable
+	cout<<a; //print a variable
+	cout<<b; //print b variable
+	cout<<c; //print c variable
+
+}
